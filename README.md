@@ -43,3 +43,15 @@ wisconsin-life/
 ├── css/
 ├── images/
 └── pages/
+
+Disclaimer
+
+Information on this website is provided for general informational purposes.
+Users should consult official government, university, healthcare, legal, or
+other authoritative sources when appropriate.
+
+Contact
+
+Wisconsin International Student Service Center (WISSC)
+
+Contact information will be added as the project develops.
