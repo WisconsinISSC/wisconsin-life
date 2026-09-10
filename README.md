@@ -41,8 +41,7 @@ wisconsin-life/
 ├── index.html
 ├── README.md
 ├── css/
-├── images/
-└── pages/
+└── images/
 
 Disclaimer
 
